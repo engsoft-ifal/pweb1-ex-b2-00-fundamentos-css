@@ -23,24 +23,32 @@
 
 body {
   /* TODO: background-color */
+  background-color: black;
 }
 
 #topo {
   /* TODO: background-color */
+  background-color: azure;
 }
 
 h1 {
   /* TODO: text-align: center */
+  text-align: center;
 }
 
 .cargo {
   /* TODO: font-weight: bold OU font-style: italic */
+  font-style: italic;
 }
 
 .cartao {
   /* TODO: padding, border e margin */
+  padding: 16px;
+  border: 1px solid #ccc;
+  margin: 16px;
 }
 
 .btn {
   /* TODO: background-color */
+  background-color: aqua;
 }
